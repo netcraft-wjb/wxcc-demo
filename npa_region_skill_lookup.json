@@ -1,0 +1,2636 @@
+{
+  "907": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "AK",
+    "country": "US"
+  },
+  "205": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "AL",
+    "country": "US"
+  },
+  "251": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "AL",
+    "country": "US"
+  },
+  "256": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "AL",
+    "country": "US"
+  },
+  "334": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "AL",
+    "country": "US"
+  },
+  "659": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "AL",
+    "country": "US"
+  },
+  "938": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "AL",
+    "country": "US"
+  },
+  "403": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ALBERTA",
+    "country": "CANADA"
+  },
+  "587": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ALBERTA",
+    "country": "CANADA"
+  },
+  "780": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ALBERTA",
+    "country": "CANADA"
+  },
+  "825": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ALBERTA",
+    "country": "CANADA"
+  },
+  "264": {
+    "skill": null,
+    "routeDN": null,
+    "state": "ANGUILLA",
+    "country": "ANGUILLA"
+  },
+  "268": {
+    "skill": null,
+    "routeDN": null,
+    "state": "ANTIGUA/BARBUDA",
+    "country": "ANTIGUA/BARBUDA"
+  },
+  "327": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "AR",
+    "country": "US"
+  },
+  "479": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "AR",
+    "country": "US"
+  },
+  "501": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "AR",
+    "country": "US"
+  },
+  "870": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "AR",
+    "country": "US"
+  },
+  "684": {
+    "skill": null,
+    "routeDN": null,
+    "state": "AS",
+    "country": "US"
+  },
+  "480": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "AZ",
+    "country": "US"
+  },
+  "520": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "AZ",
+    "country": "US"
+  },
+  "602": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "AZ",
+    "country": "US"
+  },
+  "623": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "AZ",
+    "country": "US"
+  },
+  "928": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "AZ",
+    "country": "US"
+  },
+  "242": {
+    "skill": null,
+    "routeDN": null,
+    "state": "BAHAMAS",
+    "country": "BAHAMAS"
+  },
+  "246": {
+    "skill": null,
+    "routeDN": null,
+    "state": "BARBADOS",
+    "country": "BARBADOS"
+  },
+  "441": {
+    "skill": null,
+    "routeDN": null,
+    "state": "BERMUDA",
+    "country": "BERMUDA"
+  },
+  "236": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "BRITISH COLUMBIA",
+    "country": "CANADA"
+  },
+  "250": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "BRITISH COLUMBIA",
+    "country": "CANADA"
+  },
+  "604": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "BRITISH COLUMBIA",
+    "country": "CANADA"
+  },
+  "778": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "BRITISH COLUMBIA",
+    "country": "CANADA"
+  },
+  "284": {
+    "skill": null,
+    "routeDN": null,
+    "state": "BRITISH VIRGIN ISLANDS",
+    "country": "BRITISH VIRGIN ISLANDS"
+  },
+  "209": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "213": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "279": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "310": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "323": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "408": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "415": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "424": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "442": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "510": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "530": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "559": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "562": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "619": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "626": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "628": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "650": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "657": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "661": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "669": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "707": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "714": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "747": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "760": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "805": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "818": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "820": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "831": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "858": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "909": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "916": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "925": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "949": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "951": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "CA",
+    "country": "US"
+  },
+  "345": {
+    "skill": null,
+    "routeDN": null,
+    "state": "CAYMAN ISLANDS",
+    "country": "CAYMAN ISLANDS"
+  },
+  "670": {
+    "skill": null,
+    "routeDN": null,
+    "state": "CNMI",
+    "country": "US"
+  },
+  "303": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "CO",
+    "country": "US"
+  },
+  "719": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "CO",
+    "country": "US"
+  },
+  "720": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "CO",
+    "country": "US"
+  },
+  "970": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "CO",
+    "country": "US"
+  },
+  "203": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "CT",
+    "country": "US"
+  },
+  "475": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "CT",
+    "country": "US"
+  },
+  "860": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "CT",
+    "country": "US"
+  },
+  "959": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "CT",
+    "country": "US"
+  },
+  "202": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "DC",
+    "country": "US"
+  },
+  "302": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "DE",
+    "country": "US"
+  },
+  "767": {
+    "skill": null,
+    "routeDN": null,
+    "state": "DOMINICA",
+    "country": "DOMINICA"
+  },
+  "809": {
+    "skill": null,
+    "routeDN": null,
+    "state": "DOMINICAN REPUBLIC",
+    "country": "DOMINICAN REPUBLIC"
+  },
+  "829": {
+    "skill": null,
+    "routeDN": null,
+    "state": "DOMINICAN REPUBLIC",
+    "country": "DOMINICAN REPUBLIC"
+  },
+  "849": {
+    "skill": null,
+    "routeDN": null,
+    "state": "DOMINICAN REPUBLIC",
+    "country": "DOMINICAN REPUBLIC"
+  },
+  "239": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "305": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "321": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "352": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "386": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "407": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "561": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "689": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "727": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "754": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "772": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "786": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "813": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "850": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "863": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "904": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "941": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "954": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "FL",
+    "country": "US"
+  },
+  "229": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "404": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "470": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "478": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "678": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "706": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "762": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "770": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "912": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "GA",
+    "country": "US"
+  },
+  "473": {
+    "skill": null,
+    "routeDN": null,
+    "state": "GRENADA",
+    "country": "GRENADA"
+  },
+  "671": {
+    "skill": null,
+    "routeDN": null,
+    "state": "GU",
+    "country": "US"
+  },
+  "808": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "HI",
+    "country": "US"
+  },
+  "319": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IA",
+    "country": "US"
+  },
+  "515": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IA",
+    "country": "US"
+  },
+  "563": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IA",
+    "country": "US"
+  },
+  "641": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IA",
+    "country": "US"
+  },
+  "712": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IA",
+    "country": "US"
+  },
+  "208": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ID",
+    "country": "US"
+  },
+  "986": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ID",
+    "country": "US"
+  },
+  "217": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "224": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "309": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "312": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "331": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "447": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "464": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "618": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "630": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "708": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "730": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "773": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "779": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "815": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "847": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "872": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IL",
+    "country": "US"
+  },
+  "219": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IN",
+    "country": "US"
+  },
+  "260": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IN",
+    "country": "US"
+  },
+  "317": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IN",
+    "country": "US"
+  },
+  "463": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IN",
+    "country": "US"
+  },
+  "574": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IN",
+    "country": "US"
+  },
+  "765": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IN",
+    "country": "US"
+  },
+  "812": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IN",
+    "country": "US"
+  },
+  "930": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "IN",
+    "country": "US"
+  },
+  "658": {
+    "skill": null,
+    "routeDN": null,
+    "state": "JAMAICA",
+    "country": "JAMAICA"
+  },
+  "876": {
+    "skill": null,
+    "routeDN": null,
+    "state": "JAMAICA",
+    "country": "JAMAICA"
+  },
+  "316": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "KS",
+    "country": "US"
+  },
+  "620": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "KS",
+    "country": "US"
+  },
+  "785": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "KS",
+    "country": "US"
+  },
+  "913": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "KS",
+    "country": "US"
+  },
+  "270": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "KY",
+    "country": "US"
+  },
+  "364": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "KY",
+    "country": "US"
+  },
+  "502": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "KY",
+    "country": "US"
+  },
+  "606": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "KY",
+    "country": "US"
+  },
+  "859": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "KY",
+    "country": "US"
+  },
+  "225": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "LA",
+    "country": "US"
+  },
+  "318": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "LA",
+    "country": "US"
+  },
+  "337": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "LA",
+    "country": "US"
+  },
+  "504": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "LA",
+    "country": "US"
+  },
+  "985": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "LA",
+    "country": "US"
+  },
+  "339": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "351": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "413": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "508": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "617": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "774": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "781": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "857": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "978": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MA",
+    "country": "US"
+  },
+  "204": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "MANITOBA",
+    "country": "CANADA"
+  },
+  "431": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "MANITOBA",
+    "country": "CANADA"
+  },
+  "227": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MD",
+    "country": "US"
+  },
+  "240": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MD",
+    "country": "US"
+  },
+  "301": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MD",
+    "country": "US"
+  },
+  "410": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MD",
+    "country": "US"
+  },
+  "443": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MD",
+    "country": "US"
+  },
+  "667": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "MD",
+    "country": "US"
+  },
+  "207": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "ME",
+    "country": "US"
+  },
+  "231": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "248": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "269": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "313": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "517": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "586": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "616": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "679": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "734": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "810": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "906": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "947": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "989": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MI",
+    "country": "US"
+  },
+  "218": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MN",
+    "country": "US"
+  },
+  "320": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MN",
+    "country": "US"
+  },
+  "507": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MN",
+    "country": "US"
+  },
+  "612": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MN",
+    "country": "US"
+  },
+  "651": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MN",
+    "country": "US"
+  },
+  "763": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MN",
+    "country": "US"
+  },
+  "952": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MN",
+    "country": "US"
+  },
+  "314": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MO",
+    "country": "US"
+  },
+  "417": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MO",
+    "country": "US"
+  },
+  "557": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MO",
+    "country": "US"
+  },
+  "573": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MO",
+    "country": "US"
+  },
+  "636": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MO",
+    "country": "US"
+  },
+  "660": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MO",
+    "country": "US"
+  },
+  "816": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MO",
+    "country": "US"
+  },
+  "975": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "MO",
+    "country": "US"
+  },
+  "664": {
+    "skill": null,
+    "routeDN": null,
+    "state": "MONTSERRAT",
+    "country": "MONTSERRAT"
+  },
+  "228": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "MS",
+    "country": "US"
+  },
+  "601": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "MS",
+    "country": "US"
+  },
+  "662": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "MS",
+    "country": "US"
+  },
+  "769": {
+    "skill": "Region_SE",
+    "routeDN": "8097",
+    "state": "MS",
+    "country": "US"
+  },
+  "406": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "MT",
+    "country": "US"
+  },
+  "456": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "500": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "521": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "522": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "523": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "524": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "525": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "526": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "527": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "528": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "529": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "532": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "533": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "538": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "542": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "543": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "544": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "545": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "547": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "549": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "550": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "552": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "553": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "554": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "556": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "566": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "569": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "577": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "578": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "588": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "589": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "700": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "800": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "844": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "855": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "866": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "877": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "888": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "900": {
+    "skill": null,
+    "routeDN": null,
+    "state": "NANP AREA",
+    "country": ""
+  },
+  "252": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "336": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "704": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "743": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "828": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "910": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "919": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "980": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "984": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "NC",
+    "country": "US"
+  },
+  "701": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "ND",
+    "country": "US"
+  },
+  "308": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "NE",
+    "country": "US"
+  },
+  "402": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "NE",
+    "country": "US"
+  },
+  "531": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "NE",
+    "country": "US"
+  },
+  "506": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "NEW BRUNSWICK",
+    "country": "CANADA"
+  },
+  "709": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "NEWFOUNDLAND",
+    "country": "CANADA"
+  },
+  "603": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NH",
+    "country": "US"
+  },
+  "201": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "551": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "609": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "640": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "732": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "848": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "856": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "862": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "908": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "973": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NJ",
+    "country": "US"
+  },
+  "505": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "NM",
+    "country": "US"
+  },
+  "575": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "NM",
+    "country": "US"
+  },
+  "782": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "NOVA SCOTIA - PRINCE EDWARD ISLAND",
+    "country": "CANADA"
+  },
+  "902": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "NOVA SCOTIA - PRINCE EDWARD ISLAND",
+    "country": "CANADA"
+  },
+  "702": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "NV",
+    "country": "US"
+  },
+  "725": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "NV",
+    "country": "US"
+  },
+  "775": {
+    "skill": "Region_Pacific",
+    "routeDN": "8094",
+    "state": "NV",
+    "country": "US"
+  },
+  "212": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "315": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "332": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "347": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "516": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "518": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "585": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "607": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "631": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "646": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "680": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "716": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "718": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "838": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "845": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "914": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "917": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "929": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "934": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "NY",
+    "country": "US"
+  },
+  "216": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "220": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "234": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "283": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "330": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "380": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "419": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "440": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "513": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "567": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "614": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "740": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "937": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "OH",
+    "country": "US"
+  },
+  "405": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "OK",
+    "country": "US"
+  },
+  "539": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "OK",
+    "country": "US"
+  },
+  "580": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "OK",
+    "country": "US"
+  },
+  "918": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "OK",
+    "country": "US"
+  },
+  "226": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "249": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "289": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "343": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "365": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "416": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "437": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "519": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "548": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "613": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "647": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "705": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "807": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "905": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "ONTARIO",
+    "country": "CANADA"
+  },
+  "458": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "OR",
+    "country": "US"
+  },
+  "503": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "OR",
+    "country": "US"
+  },
+  "541": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "OR",
+    "country": "US"
+  },
+  "971": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "OR",
+    "country": "US"
+  },
+  "215": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "223": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "267": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "272": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "412": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "445": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "484": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "570": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "610": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "717": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "724": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "814": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "878": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "PA",
+    "country": "US"
+  },
+  "787": {
+    "skill": null,
+    "routeDN": null,
+    "state": "PUERTO RICO",
+    "country": "US"
+  },
+  "939": {
+    "skill": null,
+    "routeDN": null,
+    "state": "PUERTO RICO",
+    "country": "US"
+  },
+  "367": {
+    "skill": null,
+    "routeDN": null,
+    "state": "Quebec",
+    "country": "CA"
+  },
+  "418": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "QUEBEC",
+    "country": "CANADA"
+  },
+  "438": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "QUEBEC",
+    "country": "CANADA"
+  },
+  "450": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "QUEBEC",
+    "country": "CANADA"
+  },
+  "514": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "QUEBEC",
+    "country": "CANADA"
+  },
+  "579": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "QUEBEC",
+    "country": "CANADA"
+  },
+  "581": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "QUEBEC",
+    "country": "CANADA"
+  },
+  "819": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "QUEBEC",
+    "country": "CANADA"
+  },
+  "873": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "QUEBEC",
+    "country": "CANADA"
+  },
+  "401": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "RI",
+    "country": "US"
+  },
+  "306": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "SASKATCHEWAN",
+    "country": "CANADA"
+  },
+  "639": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "SASKATCHEWAN",
+    "country": "CANADA"
+  },
+  "803": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "SC",
+    "country": "US"
+  },
+  "843": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "SC",
+    "country": "US"
+  },
+  "854": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "SC",
+    "country": "US"
+  },
+  "864": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "SC",
+    "country": "US"
+  },
+  "605": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "SD",
+    "country": "US"
+  },
+  "721": {
+    "skill": null,
+    "routeDN": null,
+    "state": "SINT MAARTEN",
+    "country": "SINT MAARTEN"
+  },
+  "869": {
+    "skill": null,
+    "routeDN": null,
+    "state": "ST. KITTS & NEVIS",
+    "country": "ST. KITTS AND NEVIS"
+  },
+  "758": {
+    "skill": null,
+    "routeDN": null,
+    "state": "ST. LUCIA",
+    "country": "ST. LUCIA"
+  },
+  "784": {
+    "skill": null,
+    "routeDN": null,
+    "state": "ST. VINCENT & GRENADINES",
+    "country": "ST. VINCENT & GRENADINES"
+  },
+  "423": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "TN",
+    "country": "US"
+  },
+  "615": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "TN",
+    "country": "US"
+  },
+  "629": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "TN",
+    "country": "US"
+  },
+  "731": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "TN",
+    "country": "US"
+  },
+  "865": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "TN",
+    "country": "US"
+  },
+  "901": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "TN",
+    "country": "US"
+  },
+  "931": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "TN",
+    "country": "US"
+  },
+  "868": {
+    "skill": null,
+    "routeDN": null,
+    "state": "TRINIDAD & TOBAGO",
+    "country": "TRINIDAD AND TOBAGO"
+  },
+  "649": {
+    "skill": null,
+    "routeDN": null,
+    "state": "TURKS & CAICOS ISLANDS",
+    "country": "TURKS & CAICOS ISLANDS"
+  },
+  "210": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "214": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "254": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "281": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "325": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "346": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "361": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "409": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "430": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "432": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "469": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "512": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "682": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "713": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "726": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "737": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "806": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "817": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "830": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "832": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "903": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "915": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "936": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "940": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "956": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "972": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "979": {
+    "skill": "Region_SW",
+    "routeDN": "8096",
+    "state": "TX",
+    "country": "US"
+  },
+  "340": {
+    "skill": null,
+    "routeDN": null,
+    "state": "USVI",
+    "country": "US"
+  },
+  "385": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "UT",
+    "country": "US"
+  },
+  "435": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "UT",
+    "country": "US"
+  },
+  "801": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "UT",
+    "country": "US"
+  },
+  "276": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "VA",
+    "country": "US"
+  },
+  "434": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "VA",
+    "country": "US"
+  },
+  "540": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "VA",
+    "country": "US"
+  },
+  "571": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "VA",
+    "country": "US"
+  },
+  "703": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "VA",
+    "country": "US"
+  },
+  "757": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "VA",
+    "country": "US"
+  },
+  "804": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "VA",
+    "country": "US"
+  },
+  "802": {
+    "skill": "Region_NE",
+    "routeDN": "8100",
+    "state": "VT",
+    "country": "US"
+  },
+  "206": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "WA",
+    "country": "US"
+  },
+  "253": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "WA",
+    "country": "US"
+  },
+  "360": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "WA",
+    "country": "US"
+  },
+  "425": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "WA",
+    "country": "US"
+  },
+  "509": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "WA",
+    "country": "US"
+  },
+  "564": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "WA",
+    "country": "US"
+  },
+  "262": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "WI",
+    "country": "US"
+  },
+  "274": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "WI",
+    "country": "US"
+  },
+  "414": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "WI",
+    "country": "US"
+  },
+  "534": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "WI",
+    "country": "US"
+  },
+  "608": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "WI",
+    "country": "US"
+  },
+  "715": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "WI",
+    "country": "US"
+  },
+  "920": {
+    "skill": "Region_Central",
+    "routeDN": "8099",
+    "state": "WI",
+    "country": "US"
+  },
+  "304": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "WV",
+    "country": "US"
+  },
+  "681": {
+    "skill": "Region_ATL",
+    "routeDN": "8101",
+    "state": "WV",
+    "country": "US"
+  },
+  "307": {
+    "skill": "Region_Mountain",
+    "routeDN": "8098",
+    "state": "WY",
+    "country": "US"
+  },
+  "867": {
+    "skill": "Region_NW",
+    "routeDN": "8095",
+    "state": "YUKON-NW TERR. - NUNAVUT",
+    "country": "CANADA"
+  },
+  "600": {
+    "skill": null,
+    "routeDN": null,
+    "state": "",
+    "country": "CA"
+  },
+  "622": {
+    "skill": null,
+    "routeDN": null,
+    "state": "",
+    "country": "CA"
+  }
+}
